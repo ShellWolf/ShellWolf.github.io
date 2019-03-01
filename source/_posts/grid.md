@@ -13,7 +13,9 @@ tags: [Vue, 组件]
 
 ---
 
-**本篇文章是基于网上开源的UI库 vant、antd、element 等做的关于一个栅格组件的分析**
+{% note info %} **本篇文章是基于网上开源的UI库 vant、antd、element 等做的关于一个栅格组件的分析**
+ {% endnote %}
+
 
 ### 组件分析
 

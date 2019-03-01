@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `hexo-site/source/` directory.
-favicon: /favicon.ico
+favicon: favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo, NexT"
@@ -78,9 +78,9 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
-#scheme: Gemini
+# scheme: Mist
+# scheme: Pisces
+scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -168,7 +168,7 @@ sidebar:
 
   # Scroll percent label in b2t button
   scrollpercent: false
-  
+
   # Enable sidebar on narrow view
   onmobile: false
 
@@ -189,8 +189,12 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
+
+# Read more button
+# If true, the read more button would be displayed in excerpt section.
+read_more_btn: true
 
 # Post meta display settings
 post_meta:
@@ -381,7 +385,7 @@ cnzz_siteid: 1273862303
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
@@ -444,7 +448,7 @@ busuanzi_count:
   site_pv_footer: 次
   # custom pv span for one page only
   page_pv: true
-  page_pv_header: <i class="fa fa-file-o"></i> 本文总阅读量
+  page_pv_header: <i class="fa fa-file-o"></i> 浏览
   page_pv_footer: 次
 
 
