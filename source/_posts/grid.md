@@ -114,6 +114,8 @@ tags: [Vue, 组件]
 
 这里是一个在线测试demo，做了[float布局-处理高度塌陷和margin无效](https://codepen.io/shellWolf/pen/oVNaxq?editors=1100)等问题的分析，有兴趣可以自己实际演练下。
 
+✨ 这里是一个关于Grid组件的在线demo ，[请点击→](http://wechat.hand-china.com/hippius-ui/#/zh-CN/col)
+
 ***<a name='appendGrid'>附录：</a>***
 
 - 一个新属性介绍[display:flow-root](https://div.io/topic/1973)，本质上还是创建一个[BFC](https://www.cnblogs.com/libin-1/p/7098468.html)
