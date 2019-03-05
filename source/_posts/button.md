@@ -29,7 +29,7 @@ tags: [Vue, 组件]
 
 组件代码如下所示：
 
-```html
+```js
 <template>
   <button
     :class="[
