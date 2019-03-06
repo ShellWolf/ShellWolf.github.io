@@ -209,7 +209,7 @@ $gray-dark = #999
 - [touch-action](https://developer.mozilla.org/zh-CN/docs/Web/CSS/touch-action)介绍
 - [pointer-events](https://www.cnblogs.com/zichi/p/9068481.html)运用场景
 - [Spin组件](/2019/03/04/button/)分析
-- [Ripple组件](/2019/03/04/button/)分析
+- [Ripple组件](/2019/03/05/wave/)分析
 - [b函数](/2019/03/01/bem/)分析
 - [CSS Triggers](https://csstriggers.com) 文档
 - [对于改变opacity样式时，页面渲染的疑惑](https://segmentfault.com/q/1010000008983727)
