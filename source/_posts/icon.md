@@ -11,6 +11,12 @@ tags: [icon, ttf, gulp]
 
 ### 实现
 
+大致流程如下图所示：
+
+![icon-ttf](/images/icon-ttf.gif)
+
+下面就针对它做具体的分析：
+
 1. 首先需要在电脑中安装 `sketch` 软件，因为我们要用到该软件的 `sketchtool` ([一个内置工具](https://developer.sketchapp.com/guides/sketchtool/))命令，将 `.sketch` 源文件处理为`svg`文件，如下所示：
 
 ```js
