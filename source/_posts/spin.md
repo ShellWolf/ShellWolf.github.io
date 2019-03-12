@@ -99,4 +99,4 @@ tags: [Vue, 组件, CSS3]
 
 - [b函数](/2019/03/01/bem/)分析
 - [loading svg 资源地址](https://loading.io/)
-- [对border-radius的解释](/03/08/border-radius/)
+- [对border-radius的解释](/2019/03/08/border-radius/)
