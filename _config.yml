@@ -76,10 +76,11 @@ pagination_dir: page
 theme: next
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: https://hexo.io/zh-cn/docs/one-command-deployment
 deploy:
   type: git
   repo: https://github.com/ShellWolf/ShellWolf.github.io.git
+  branch: gh-pages
 
 # Local search
 ## 添加百度/谷歌/本地 自定义站点内容搜索
