@@ -12,6 +12,7 @@ tags: [css, event]
 - [CSS理解之z-index](https://www.jianshu.com/p/046f1b7e3b00)
 - [深入研究-webkit-overflow-scrolling:touch及ios滚动](https://www.cnblogs.com/xiahj/p/8036419.html)
 - [CSS clip:rect矩形剪裁功能及一些应用介绍](https://www.zhangxinxu.com/wordpress/2011/04/css-clip-rect/)
+- [css弹性盒子-------桃园三兄弟之：flex-grow、flex-shrink、flex-basis详解](https://blog.csdn.net/m0_37058714/article/details/80765562)
 
 {% endnote %}
 
